@@ -8,8 +8,8 @@ https://www.freediyadiangong.xyz/
 
 ### 网页预览
 
-![image-20221118095142950](C:\Users\PTA00\AppData\Roaming\Typora\typora-user-images\image-20221118095142950.png)
+![image-20221118095142950](https://github.com/PTA00/diyadiangong/blob/main/image/0.png)
 
-![image-20221118095025146](C:\Users\PTA00\AppData\Roaming\Typora\typora-user-images\image-20221118095025146.png)
+![image-20221118095025146](https://github.com/PTA00/diyadiangong/blob/main/image/1.png)
 
-![image-20221118095118226](C:\Users\PTA00\AppData\Roaming\Typora\typora-user-images\image-20221118095118226.png)
+![image-20221118095118226](https://github.com/PTA00/diyadiangong/blob/main/image/2.png)
