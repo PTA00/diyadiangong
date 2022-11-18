@@ -1,5 +1,5 @@
 # diyadiangong
-低压电工取证考试练习网站
+免费且开源的低压电工取证考试练习网站
 ### 直接体验
 
 https://www.freediyadiangong.xyz/
