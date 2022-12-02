@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <!-- <link href="./css/font-awesome.min.css" rel="stylesheet"> -->
     <link href="./css/m_nav.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.slim.min.js"></script>
     <style>
         .div_relative{position:relative;height:90px;}
