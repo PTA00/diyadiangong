@@ -1,6 +1,6 @@
 # diyadiangong
 免费且开源的低压电工考试练习网站
-### 直接体验
+### 直接体验（网站已于2023年5月8日关闭）
 
 https://www.freediyadiangong.xyz/
 
